@@ -1,10 +1,10 @@
 # Hi, I'm Jay 👋 👨‍💻
 
-I’m a software engineer at Rakuten, Inc. in Tokyo, Japan 🇯🇵.
+I'm a Software Engineer experienced with React.js, GraphQL, Node.js, TypeScript, JavaScript, and HTML/CSS. Over the course of my career, I've also worked with Redux, Apollo, Relay, Styled Components, Jest, Storybook, GatsbyJs, Next.js, jQuery, Mapbox.
 
-Some technologies I currently work with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+I have a passion for user-friendly design and I love writing clean and maintainable code, working with other people, and learning new things along the way. For fun, I enjoy traveling, watching films, photography, and reading books.
 
-I’m currently learning Java, Go.
+I’m currently learning Java and Go.
 
 📫 How to reach me:
 
