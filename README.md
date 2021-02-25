@@ -10,4 +10,3 @@ I’m currently learning Go.
 
 * <a href="https://www.linkedin.com/in/jayasuryasakamuri">LinkedIn</a>
 * <a href="https://codepen.io/jayasuryasakamuri">Codepen</a>
-* <a href="https://www.instagram.com/jsu.pics/">Instagram</a>
