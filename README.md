@@ -1,10 +1,12 @@
-# Hi, I'm Jay 👋 👨‍💻
+## 👋 Hello! Welcome to my Github profile 🎉!
 
-I'm a Software Engineer experienced with React.js(with hooks), GraphQL, TypeScript, JavaScript, Node.js and HTML/CSS. Over the course of my career, I've also worked with Next.js, Redux, Apollo, Relay, Styled Components, Jest, Storybook, GatsbyJs, Material UI, jQuery, Mapbox etc.,
+I am a Full stack engineer with 6+ Years of experience in building user friendly products from scratch.
+
+I Have Core expertise in React.js, JavaScript, TypeScript, Node.js, Python, GraphQL and other libraries & tools in the developer ecosystem.
 
 I have a passion for user-friendly design and I love writing clean and maintainable code, working with other people, and learning new things along the way. For fun, I enjoy traveling, watching films, photography, and reading books. 
 
-I’m currently playing with python, Data science & Machine Learning.
+Currently I'm playing with Go, python and some AI stuff.
 
 📫 How to reach me:
 
