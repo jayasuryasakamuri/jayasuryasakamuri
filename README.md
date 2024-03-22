@@ -2,11 +2,11 @@
 
 I am a Full stack engineer with 6+ Years of experience in building user friendly products from scratch.
 
-I Have Core expertise in React.js, JavaScript, TypeScript, Node.js, Python, GraphQL and other libraries & tools in the developer ecosystem.
+I have core expertise in React.js, JavaScript, TypeScript, Node.js, Python, GraphQL and other libraries & tools in the developer ecosystem.
 
 I have a passion for user-friendly design and I love writing clean and maintainable code, working with other people, and learning new things along the way. For fun, I enjoy traveling, watching films, photography, and reading books. 
 
-Currently I'm playing with Go, python and some AI stuff.
+Currently I'm playing with Go, python languages and some AI stuff.
 
 📫 How to reach me:
 
